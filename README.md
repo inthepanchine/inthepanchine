@@ -1,6 +1,6 @@
 # Give Up GitHub
 
-I have given up GitHub.  ([See Software Freedom Conservancy's *Give Up  GitHub* site for details](https://GiveUpGitHub.org).)
+I have given up GitHub because in my prospective it doesn't reflect what my view on the FOSS community is neither what I'd like to take to the community by hosting my projects here.  ([See Software Freedom Conservancy's *Give Up  GitHub* site for details](https://GiveUpGitHub.org).)
 
 You can now find my repos and current projects at [my codeberg profile](https://codeberg.org/inthepanchine) instead.
 
